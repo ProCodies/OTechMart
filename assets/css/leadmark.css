@@ -2724,6 +2724,19 @@ textarea.form-control {
   }
 }
 
+/* .btns {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+} */
+
 .btn {
   display: inline-block;
   font-weight: 400;
@@ -4594,8 +4607,8 @@ input[type="button"].btn-block {
 
 .navbar-brand {
   display: inline-block;
-  padding-top: 0.3125rem;
-  padding-bottom: 0.3125rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   margin-right: 1rem;
   font-size: 1.25rem;
   line-height: inherit;
@@ -11210,7 +11223,7 @@ textarea.form-control {
 }
 
 .navbar .navbar-brand img {
-  width: 60px;
+  width: 100%;
 }
 
 .navbar .nav-link {
